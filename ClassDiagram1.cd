@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borner">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAADAAAAAQAAAAAAAAAAACIAAAgAAAEAAAAIA=</HashCode>
+      <FileName>Assets\Script\Player\Borner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cannonball">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAAAAAAAACAAAAAAAAAAAAAAIAAgCAgAAAAI=</HashCode>
+      <FileName>Assets\Script\Player\Cannonball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyForTime" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ClickEffect\Effects_01\Prefebs\DestroyForTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScrollUV" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ClickEffect\Effects_02\ScrollUV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basics" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Demigiant\DOTween\Examples\Basics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sequences" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Demigiant\DOTween\Examples\Sequences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlView">
+    <Position X="5.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAASBAACCBAEAAgAAAAAAAAEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player\ControlView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerDir">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACIAAAEAAAAAQAAAAAAAAAQBAAAAAI=</HashCode>
+      <FileName>Assets\Script\Player\PlayerDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMove">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEKAAAAAAAAAAAAAAAAAAAACAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player\PlayerMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWeapon">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAIAAAICAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player\PlayerWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipAI">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAABAACAAIAAABAgAAAAAAAAAAAAgEAAAAAAEAAI=</HashCode>
+      <FileName>Assets\Script\Player\ShipAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCCAQAAiAAAAAQAABAAAAAGAAQEAAAAABAAABAAIA=</HashCode>
+      <FileName>Assets\Script\Player\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="1" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABABCAABAAAAAgAAAAQAIAAEAAACAACAAAAAAE=</HashCode>
+      <FileName>Assets\Script\Player\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonManager">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAEAAgIABAAAAAAAAAAAAAAACBQAAAQgEAAAA=</HashCode>
+      <FileName>Assets\Script\Start\ButtonManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResetInfor" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Script\Start\ResetInfor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursorManager" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAIAAAAAIAAAAIAAAAAAAAABAAAgAAACA=</HashCode>
+      <FileName>Assets\Script\Tools\CursorManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACBAAAAABgBAAAKAAAAAgAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Script\Tools\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LayerManager">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Script\Tools\LayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tags">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAAAAQAAAAAAACAAAAAAABAAAIAAAAAAI=</HashCode>
+      <FileName>Assets\Script\Tools\Tags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Team">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
